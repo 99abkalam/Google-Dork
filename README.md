@@ -1,128 +1,77 @@
-<!--markdown tetorial-->
+### Google Dorking for hacking
 
-### simple text
-Anisul Islam  
-This is new line
----
+~~Google dork for finding leads/emails~~  
+- site:companywebsite.com+[name]+contact
+    1. (site:thrivegol.com + arianna huffington + contact)  
+- prospect's name@domain.com
+    1. (ken suzuki@smartnews.com)
+- personal email finding from istragram  
+    1. ("per care" "@gmail.com""yahoo.com""ymail.com""live.com""hotmail.com""outlook.com.""aol.com""zoho.com""gmail.com""icloud.com""site:instagram.com") 
 
-</br>
+- site:instagram.com + "Marketing" AND "@gmail.com"  
+- site:linkedin.com/in + "Email me at" + "Real Esate"
+- site:facebook.com/group + "Email at me" + "Real Estate"
+- allintitle: "Security Companies"
+- allintitle:realestate
+- Email*codemanbd.com -gmail.com(exclude something)  
 
-# hedaing line
+### Get free email list  
+- email filetype:xls  
+- exported email addresses
+- inurl:email filetype:mdb
+- email security filetype:pdf
 
-# Anisul Islam
-## Anisul Islam
-### Anisul Islam
-#### Anisul Islam
-##### Anisul Islam
-###### Anisul Islam
+### Google search criteria && advamced search
+- Google advanced search: [google](https://google.com/advancedsearch)
+- search in a site,site:linkedin.com "CEO" tata sky bd
+- search in a domain.site:.fr
+- put @ befor a word to search social media@twitter web desinger
+- put..between two numbers. for example,(camera$50..$100)
+- put - in front of a word you want ot leave,(walton products- freeze)
+- put "related:" in front of a website to get simillar sites.(related:linkedin.com)
+- put "or" between each search query.(tata sky CEO or manager)
+- get email address(email*@domain.com or domain@gmail.com)
+- put a word or phrase inside quotes to get exact match, "web designer"
+- get all result of a topic mentioned in url,(inurl:freelancing)
+- get all result of a topic mentoned in title,(intitle:whyfreelancing)
+- lets mix,site:.net intitle:freelancing
+- get any types of files like,word,pdf(freelancing filetype:pdf)
 
-### pragraph text
-<p>This is anisul islam.I am 31 years old.I just finished my masters at Temper university</>
+### DuckDuckGo Search Engine
+- [duckduck](https://duckduck.com)
+- __tana nano company emails // you will get few more variations of result from google__
+- search with (tata nano company emails)
 
-### italic text 
-<i>This is an italic text</i>  
-_This is italic_  
-__this is an italic text__  
-**This is an italic text**
+### Zapmeta Search Engine
+- [zapmeta](https://wwww/zapmeta.com)
+- [advanced search zap](https://www.zapmeta.com/adv/)
+- write keyword or "search with all of the words"
 
-</br>
+### Bing Search Engine
+- [bing](https://www.bing.com)
+- - say search with(linkedin profile of ceos,You will get various result which are differnt from google search)
 
-### bold text
-~~this is~~
+### Manta Search
+- [manta](https://www.manta.com)
 
-### singel line code
-`this is inline`
-
-### css code color
-```css
-    head{
-        background-color: green;
-    }
-```
-</br>
-
-### html code style
-```html
-   <html>
-    <head>
-        <body>
-
-        </body>
-    </head>
-   
-   </html>
-```
-</br>
-
-### javascript color
-```javascript
-    console.log('hello')
-    
-```
-</br>
-
-### order list html
-<ol>
-  <li>item1</li>
-  <li>item2</li>
-</ol>
+### More Notes
+- site:tv inurl:https
+- log file finding(allintex:password filetype:log after: 2018)
+- inurl:ftp intitle:"index of" site:daraz.com
+- inurl:robots filetype:txt site:daraz.com
+- site:amazonawa.com intext:password ifletype:txt s3
+- iurl:"wp-content/uploads" intext:credential
+- intext:"powered by virtual airlines manager"
+site:starbucks.com inurl:admin/login
 
 
-### Orderlist
-1. item1
-2. item2
-    1. item1
-    2. item2
-3. item3
-
-</br>
-
-### unorder List
-- item1
-    - item1
-    - item2
-- item2
-- item3
-
-</br>
-
-### Task List
-- [x] Task1
-- [x] Task2
-- [] Task3
-
-</br>
-
-### automatic link
-https://www.studaywithanis.com
-
-</br>
-
-### disable link
-`https://www.studaywithanis`
-
-### markdown link syntex
-[studywithanis](https://www/studaywithanis)
+## AUTHOR
 
 
-### website link here
-[studaywithanis][websitelink]
-
-
-
-<!-- all link is here -->
-[websitelink]: https://www/studaywithanis.com
-
-
-### image sytax
-<!-- ![alt text](./foldername/image.jpg)-->
-
-</br>
-
-### image
-<img src="./Pictures/Screenshot_2023-10-09_12-20-31.png" width="400" title="walpaper"/>
-
-### table sytax
-| Name | Email |
-|------ |-------|
-| Anisul Islam | Text is here|
+- A
+- B
+    - K
+    - A
+        - L
+        - A
+            - M
